@@ -3,7 +3,7 @@
 # - Qual é o nome do homem mais velho.
 # - Quantas mulheres têm menos de 20 anos.
 #/////////////////////////////////////////q
-# resposta guanabara
+
 
 somaidade = 0
 médiaidade = 0
